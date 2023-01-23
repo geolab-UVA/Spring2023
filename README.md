@@ -19,8 +19,6 @@ Mentor: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
 ## 3D printing
 
-...
-
 Mentor: [David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
 
 
