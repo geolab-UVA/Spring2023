@@ -8,7 +8,7 @@ Welcome to the Spring 2023 edition of GeometryLab @ UVA.
 
 ## Crochet
 
-Mentor: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
+Mentors: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
 ## 3D printing
 
