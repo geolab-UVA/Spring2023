@@ -4,16 +4,9 @@
 
 Welcome to the Spring 2023 edition of GeometryLab @ UVA. 
 
-
 # Groups
 
 ## Crochet
-
-Visualizing hyperbolic space is difficult; for this we use models. But can we create a model in practice. If you crochet in a specific pattern you can! Let us explore 
-how and why.
-
-- [Hyperbolic Space Crochet Models](https://www.theiff.org/oexhibits/oe1e.html)
-- [A Mathematical Yarn: How to Stitch a Hyperbolic Pseudosphere](https://www.scientificamerican.com/gallery/a-mathematical-yarn-how-to-stitch-a-hyperbolic-pseudosphere/)
 
 Mentor: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
@@ -21,10 +14,22 @@ Mentor: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
 Mentor: [David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
 
-
 ## Computer visualization
 
 Many 3d rendering engines for games and animation are focused on our usual Euclidean reality. Can one use the tools available to help visualize non Euclidean geometries. We are out to understand how visualization and rendering works and how we can adapt it to more exciting and exotic settings. 
 
 Mentor: [Gennady Uraltsev](https://guraltsev.github.io/)
+
+Participants:
+
+- Lincoln Curtis
+- Diego Dimattina
+- Michelle Giulajan
+- Alexander Ivanov,
+- Yejun Kim,
+- Liran Li,
+- Katherine Moore,
+- Mandy Unterhalter
+
+Meeting time: Fri 5:30pm-7pm
 
