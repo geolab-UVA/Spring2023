@@ -29,7 +29,8 @@ Participants:
 - Yejun Kim,
 - Liran Li,
 - Katherine Moore,
-- Mandy Unterhalter
+- Mandy Unterhalter,
+- Zerui Wang
 
 Meeting time: Fri 5:30pm-7pm
 
