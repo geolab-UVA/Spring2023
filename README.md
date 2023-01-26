@@ -14,7 +14,7 @@ Mentors: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
 Mentor: [David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
 
-## Computer visualization
+## [Computer visualization](https://github.com/geolab-UVA/Computer-Visualization-SP2023)
 
 Many 3d rendering engines for games and animation are focused on our usual Euclidean reality. Can one use the tools available to help visualize non Euclidean geometries. We are out to understand how visualization and rendering works and how we can adapt it to more exciting and exotic settings. 
 
