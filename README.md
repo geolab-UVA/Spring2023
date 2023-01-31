@@ -12,7 +12,9 @@ Mentors: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
 ## 3D printing
 
-Mentor: [David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
+Mentors:
+[David Chasteen-Boyd](https://math.virginia.edu/people/kxk2dr/)
+[Alec Traaseth](https://sites.google.com/view/alec-traaseth/?pli=1)
 
 ## [Computer visualization](https://github.com/geolab-UVA/Computer-Visualization-SP2023)
 
