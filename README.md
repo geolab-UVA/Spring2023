@@ -1,6 +1,4 @@
-![Folded_Coral_Flynn_Reef](https://user-images.githubusercontent.com/7040974/191885554-2213debe-ee84-4025-968a-20258f257fb0.jpg)
-
-# Spring 2023
+# GeometryLab @ UVA - Spring 2023 <img src="./assets/hyperbolic-coral.jpg" height="40em">
 
 Welcome to the Spring 2023 edition of GeometryLab @ UVA. 
 
