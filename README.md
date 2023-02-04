@@ -8,7 +8,7 @@ Welcome to the Spring 2023 edition of GeometryLab @ UVA.
 
 Mentors: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
-## 3D printing
+## [3D printing](https://github.com/geolab-UVA/3D-Printing-SP2023)
 
 Mentors:
 
