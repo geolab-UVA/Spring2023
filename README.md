@@ -4,7 +4,7 @@ Welcome to the Spring 2023 edition of GeometryLab @ UVA.
 
 # Groups
 
-## Crochet
+## [Crochet](https://github.com/geolab-UVA/Crochet-SP23)
 
 Mentors: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
