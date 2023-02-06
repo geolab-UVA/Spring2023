@@ -8,6 +8,10 @@ Welcome to the Spring 2023 edition of GeometryLab @ UVA.
 
 Mentors: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
 
+We will use crochet to explore and better understand spheric and hyperbollic geometry.
+
+Meeting time: Mon 5pm-6:30pm
+
 ## [3D printing](https://github.com/geolab-UVA/3D-Printing-SP2023)
 
 Mentors:
