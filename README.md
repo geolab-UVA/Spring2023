@@ -8,7 +8,15 @@ Welcome to the Spring 2023 edition of GeometryLab @ UVA.
 
 We will use crochet to explore and better understand spheric and hyperbolic geometry. We will create different shapes in the hopes of vizualizing different properties in different versions of the hyperbolic place. Also, we will have some joint activities with the Mason Experimental Geometry Lab [MEGL](https://megl.science.gmu.edu).
 
-Mentors: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
+Mentor: [Valentina Zapata Castro](https://math.virginia.edu/people/vz6an/)
+
+Participants:
+
+- Noah Amato
+- Ellie Berg
+- Bliss Bodawala
+- Caroline Lingle
+- Michelle Monge
 
 Meeting time: Mon 5pm-6:30pm
 
@@ -20,6 +28,7 @@ Mentors:
 - [Alec Traaseth](https://sites.google.com/view/alec-traaseth/?pli=1)
 
 Participants:
+
 - Marco Baessler
 - Jacob Bodenhofer
 - Seongeun Chung
